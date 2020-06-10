@@ -1,0 +1,22 @@
+body{
+	font-family: verdana;
+	background-color: #bbc4cc;
+}
+.look, h1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 150px;
+}
+input{
+	width: 50em;
+	height: 30px;
+	margin-top: 2px;
+}
+img{
+	margin-top: 10px;
+}
+h3{
+	color: dodgerblue;
+}

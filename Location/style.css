@@ -1,0 +1,99 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	font-family: courier new;
+	background-color: #88ade6;
+}
+.h1{
+	color: black;
+	display: flex;
+	text-shadow: 1px 1px 1px black;
+	justify-content: space-around;
+}
+.nav{
+	display: flex;
+	font-size: 18px;
+	text-align: center;
+	justify-content: space-around;
+	color: red;
+}
+header, footer{
+	border: 3px solid rgb(red, rgb(44, 62, 221), blue);
+	border-radius: px;
+	box-shadow: 2px 1px 2px black;
+	background-color: #bbc4cc;
+}
+
+}
+h2{
+	text-align: center;
+	text-decoration: overline; 
+	color: #bbc4cc;
+	text-shadow: 1px 1px 2px black;
+}
+p{
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	color: black;
+}
+h6{
+	text-align: center;
+}
+img{
+	height: 15em;
+	width: 20em;
+	margin-top: 9px;
+	border: 2px solid black;
+}
+.Niamey{
+	color: black;
+}
+.secteur{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center; 
+}
+.tete{
+	text-align: center;
+}
+h4{
+	color: white;
+	text-align: center;
+	font-size: 21px;
+
+}
+.zinder{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center; 
+}
+.inscription{
+	color: white;
+}
+.text{
+	text-align: left; 
+}
+a{
+	color: blue;
+	font-size: 22px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a:hover{
+	color: red;
+	text-align: center;
+}
+h2{
+	text-align: center;
+	color: black;
+}
+.long{
+	height: 30px;
+	width: 50px;
+}
+.love{
+	display: flex;
+	justify-content: space-around;
+}
+

@@ -1,0 +1,44 @@
+body{
+    background-image: url(photo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat
+;
+}
+.tete{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 30px;
+}
+.pirate{
+    font-size: larger;
+    color: gray;
+}
+.pirate:hover{
+    text-decoration: underline;
+}
+.IL{
+    background-color: #999999;
+    border: dotted;
+}
+.LA{
+    background-color: dodgerblue;
+    border: dotted;
+}
+h2{
+    color: peru;
+    margin-left: 160px;
+    font-size: xx-large;
+}
+h1{
+    margin-left: 180px;
+    color: peru;
+    font-size: 3.5em;
+}
+.creation{
+    color: white;
+    font-size: x-large;
+    margin-left: 12em;
+    background-color: rgb(22, 22, 223);
+    border: groove rgb(17, 17, 252);
+    border-radius: 5px;
+}

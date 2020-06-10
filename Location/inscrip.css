@@ -1,0 +1,28 @@
+body{
+	
+	background-color: #88ade6;
+	background-image: ;
+
+	
+}
+
+a:hover{
+	text-decoration: none;
+
+}
+button{
+		background: #60dd60;
+}
+.separator{
+    height: 3px;
+    width: 10%;
+    border: none;
+    box-shadow: none;
+    background-color: #3999DD;
+}
+textarea{
+	resize: vertical;
+}
+h2{
+	text-shadow: 1px 1px 15px black;
+}
